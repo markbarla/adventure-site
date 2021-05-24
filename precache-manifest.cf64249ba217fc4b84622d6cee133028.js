@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffa80b35c51381f3acca605f10a199c2",
+    "revision": "4fde596d94822fc0ab186bc1d260036a",
     "url": "/adventure-site/index.html"
   },
   {
-    "revision": "4faada14ac6aa01901bb",
-    "url": "/adventure-site/static/css/main.2e278bbb.chunk.css"
+    "revision": "bb91342d49014ed15638",
+    "url": "/adventure-site/static/css/main.0d496269.chunk.css"
   },
   {
     "revision": "68936d2657684db64230",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure-site/static/js/2.d0b79010.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4faada14ac6aa01901bb",
-    "url": "/adventure-site/static/js/main.d46052b6.chunk.js"
+    "revision": "bb91342d49014ed15638",
+    "url": "/adventure-site/static/js/main.53452e7b.chunk.js"
   },
   {
     "revision": "56ea4b3ee7b2422173a9",
